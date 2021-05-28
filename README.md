@@ -14,3 +14,4 @@ I will acknowledge IBM SPSS for including this dataset in their SPSS document fo
 I would love to see diverse approaches in predicting the posttest scores of the students. I'd love to learn new things through the sharing of codes and discussions.
 
 ### <a href='https://www.kaggle.com/kwadwoofosu/predict-test-scores-of-students'>Dataset Resource</a>
+### <a href='https://colab.research.google.com/drive/1ZkJnjHsDGXOkPVpNJlzYzDAkqELdtVfr#scrollTo=8PX-TmtDSt3i'>Google Colaboratory</a>
